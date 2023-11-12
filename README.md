@@ -13,9 +13,11 @@ Basic Hand Detection: A simple yet effective demonstration of hand detection usi
 Real-time Tracking with OpenCV: Explore real-time hand tracking using OpenCV and delve into the underlying computer vision principles.
 Gesture Recognition: Take it a step further by implementing gesture recognition to interpret hand movements and poses.
 How to Use:
-Clone the repository to your local machine.
-Navigate to the specific project you're interested in.
-Follow the README instructions for setup and execution.
 Contribution:
 Feel free to contribute, report issues, or suggest improvements. Together, let's enhance our understanding of hand tracking and build a valuable resource for the community!
 Happy coding! 🚀
+
+
+To Use This ->
+Clone the repository to your local machine.
+Navigate to the specific project you're interested in.
